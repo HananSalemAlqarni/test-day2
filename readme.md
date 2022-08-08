@@ -1,46 +1,44 @@
 ---
-# Chandra Arya
-Software and DevOps engineer, Cloud architect, Instructor.
+# Hanan Alqarni 
+
 
 <div id="webaddress">
-<a href="chandradeoarya@gmail.com">chandradeoarya@gmail.com</a>
-| <a href="http://chandradeoarya.com">My Tech blog</a>
+<a href="hsh74al@gmail.com">hsh74al@gmail.com</a>
+| <a href="hsh74al@gmail.com">My Student blog</a>
 </div>
 
 
 ## Currently
 
-Lead DevOps instructor at Coding Dojo
+Trainng DevOps instructor at Coding Dojo
 
 ### Specialized in
 
-AWS Cloud, Linux, AWS cloud & services, SDLC, Iac, git, ansible, jenkins, monitoring, docker , k8s, DevSecOps, build tools, distributed systems
 
+Information system
 
 
 ## Education
 
-NAME of your Uni
+NAME of your kku
 
 
 
 ## Awards
 
-LIST of award
+SDA
 
 
 
 ## Publications
 
-Gait analysis based human recognition system `April 2016`
+Gait analysis based human recognition system `April 2022`
 
-## Occupation
 
-`Codingdojo` — Lead DevOps Cloud instructor
 
 ## Projects
 
-ANY project
+Trainng Digithel
 
 <!-- ### Footer
 
